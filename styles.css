@@ -1,0 +1,20 @@
+h1 {
+    font-size: 300%;
+}
+
+#jump + p {
+    color: rosybrown;
+}
+
+footer {
+    background-color: crimson;
+}
+
+h2.toe {
+    background-color: darkviolet;
+}
+
+* {
+    text-align: center;
+}
+
